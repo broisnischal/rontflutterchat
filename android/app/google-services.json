@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "715986520419",
+    "project_id": "chatwithnees",
+    "storage_bucket": "chatwithnees.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715986520419:android:a7b20db181bcec0163ab56",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715986520419-rv2095fl4fbon3g4tdl0mjr47hng09aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJqWru-zmk8hAx2xvK1e-AIxqILy76dDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715986520419-rv2095fl4fbon3g4tdl0mjr47hng09aj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
